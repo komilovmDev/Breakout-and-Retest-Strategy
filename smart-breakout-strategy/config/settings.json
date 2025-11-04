@@ -1,0 +1,17 @@
+{
+  "API_KEY": "YOUR_BINANCE_API_KEY",
+  "API_SECRET": "YOUR_BINANCE_SECRET_KEY",
+  "symbol": "BTCUSDT",
+  "timeframe": "1h",
+  "risk_reward_ratio": 2.0,
+  "stop_loss_percent": 0.003,
+  "quantity": 0.001,
+  "mode": "demo"
+  ,
+  "telegram": {
+    "bot_token": "8537950770:AAG510L1pAdX8teYibxKMgDi_yvTut8sXFI",
+    "channel_username": "@spritefx_tp"
+  }
+}
+
+
